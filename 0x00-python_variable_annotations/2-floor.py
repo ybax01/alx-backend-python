@@ -7,6 +7,6 @@ import math
 
 def floor(n: float) -> int:
     """
-    Concatenation, with annotations
+    Finds floor of a float
     """
     return math.floor(n)
