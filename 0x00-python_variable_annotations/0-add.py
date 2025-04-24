@@ -4,7 +4,7 @@ Task 0
 """
 
 
-def add(a:float, b:float)-> float:
+def add(a: float, b: float) -> float:
     """
     Sum of two floats, has annotations.
     """
